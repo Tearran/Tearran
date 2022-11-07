@@ -1,9 +1,14 @@
-### Hi there 👋
+- A little #cvs in my life
+- A little #bash by my side
+- A little bit of #documentation all I need
+- A little bit of #markdown is what I see
+- A little bit of #sqlite in the #html5
+- A little bit of #python all night long
+- A little bit of #javascript here I am
+- A little bit of this makes its the plan
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tearran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
-**Tearran/Tearran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +18,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
