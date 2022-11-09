@@ -1,4 +1,4 @@
-- A little #cvs in my life
+- A little #csv in my life
 - A little #bash by my side
 - A little bit of #documentation all I need
 - A little bit of #markdown is what I see
