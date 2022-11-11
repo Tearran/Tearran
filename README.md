@@ -3,7 +3,7 @@
 I am Tearran
 ==================
 
-### Passionate Open source
+### Passionate about Open source software 
 - A little #csv in my life
 - A little #bash by my side
 - A little bit of #documentation all I need
