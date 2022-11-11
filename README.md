@@ -18,7 +18,7 @@ I am Tearran
 
 [![tearran](https://github-profile-trophy.vercel.app/?username=tearran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-\- 🔭 I’m currently working on \*\*Include These Scripts\*\* - 💬 Ask me about \*\*Arduino, Linux, Raspberry pi open source\*\*
+\- 🔭 I’m currently working on \*\*Include These Scripts\*\* - 💬 Ask me about \*\*Arduino, Linux, Raspberry pi, open source\*\*
 
 ### Connect with me:
 
