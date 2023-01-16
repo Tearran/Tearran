@@ -23,7 +23,7 @@ I am Tearran
 ### Connect with me:
 
 
-
+<!--
 ### Languages and Tools:
 
 
@@ -35,6 +35,7 @@ I am Tearran
 ![tearran](https://github-readme-streak-stats.herokuapp.com/?user=tearran&theme=onedark)
 
 -------------------------------
+-->
 
 
 <h3 align="left">Languages and Tools:</h3>
