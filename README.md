@@ -20,11 +20,13 @@ I am Tearran
 
 ![tearran](https://komarev.com/ghpvc/?username=tearran&label=Profile%20views&color=0e75b6&style=flat)
 
-[![tearran](https://github-profile-trophy.vercel.app/?username=tearran&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![tearran](https://github-profile-trophy.vercel.app/?username=tearran&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 ![tearran](https://github-readme-stats.vercel.app/api/top-langs?username=tearran&show_icons=true&locale=en&layout=compact&theme=onedark)
 
 ![tearran](https://github-readme-stats.vercel.app/api?username=tearran&theme=onedark&show_icons=true&locale=en)
 
 ![tearran](https://github-readme-streak-stats.herokuapp.com/?user=tearran&theme=onedark)
 
+-->
