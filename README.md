@@ -3,7 +3,7 @@
 I am Tearran
 ==================
 
-- I’m currently working on [config](https://github.com/armbian/configng) for [armbian](armbian.com) 
+- I’m currently working on [config](https://github.com/armbian/configng), [armbian](armbian.com) 
 - Ask me about Arduino, GNU Linux, and open source
 - Join me on [discord](https://discord.gg/nT5Gtxqh), [linkedin](https://www.linkedin.com/in/travelingaspie/), and [youtube](https://www.youtube.com/channel/UCXvIoCBNDBQCyS3bUiBFjQA)
 - Contribute @ [config](https://github.com/armbian/configng) 
