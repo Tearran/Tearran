@@ -3,11 +3,13 @@
 I am Tearran
 ==================
 
+- Ask me about Arduino, GNU Linux, and open source scripting
 - I’m currently working on [config](https://github.com/armbian/configng), [armbian](armbian.com) 
-- Ask me about Arduino, GNU Linux, and open source
 - Join me on [discord](https://discord.gg/nT5Gtxqh), [linkedin](https://www.linkedin.com/in/travelingaspie/), and [youtube](https://www.youtube.com/channel/UCXvIoCBNDBQCyS3bUiBFjQA)
 - Contribute @ [config](https://github.com/armbian/configng) 
-### Passionate about Open source software 
+
+## Mambo No. π (A Little Bit Of…)
+
 - A little #csv in my life
 - A little #bash by my side
 - A little bit of #documentation all I need
