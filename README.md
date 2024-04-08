@@ -4,7 +4,7 @@ I am Tearran
 ==================
 
 - Ask me about Arduino, GNU Linux, and open source scripting
-- I’m currently working on [config](https://github.com/armbian/configng), [armbian](armbian.com) 
+- I’m currently working on [configng](https://github.com/armbian/configng), [armbian](armbian.com) 
 - Join me on [discord](https://discord.gg/nT5Gtxqh), [linkedin](https://www.linkedin.com/in/travelingaspie/), and [youtube](https://www.youtube.com/channel/UCXvIoCBNDBQCyS3bUiBFjQA)
 - Contribute @ [config](https://github.com/armbian/configng) 
 
